@@ -1,0 +1,18 @@
+.first p {
+  color: orangered;
+}
+.second {
+  background-color: peru;
+}
+.third {
+  border: solid 5px;
+  color: green;
+}
+.forth {
+  border: solid 1rem;
+  color: green;
+}
+.fifth {
+  border: solid 1em;
+  color: green;
+}
